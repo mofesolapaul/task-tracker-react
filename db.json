@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Lorem, ipsum dolor.",
+      "day": "Feb 5th at 2:15pm",
+      "reminder": true
+    },
+    {
+      "text": "No be juju be dat?!",
+      "day": "Monday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
